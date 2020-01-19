@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=RomanNumerals
+comment0.text=\n\ RomanNumerals\ has\ two\ functions\ that\ convert\ roman\ numerals\ to\ integers\ or\ integers\ to\ roman\ numerals.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20190117\n
+comment1.params=input
+comment1.target=java.lang.String\ IntegerToRomanNumeral(int)
+comment2.params=r
+comment2.target=int\ value(char)
+comment3.params=romanNumber
+comment3.target=java.lang.String\ romanToDecimal(java.lang.String)
+comment4.params=romanNumeral
+comment4.target=int\ processDecimal(java.lang.String)
+comment5.params=decimal\ lastNumber\ lastDecimal
+comment5.target=int\ processDecimal(int,\ int,\ int)
+numComments=6

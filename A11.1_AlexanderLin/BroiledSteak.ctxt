@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BroiledSteak
+comment0.text=\n\ Write\ a\ description\ of\ class\ BroiledSteak\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=java.lang.String\ getFood()
+comment2.params=Input
+comment2.target=void\ SetFood(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getPart()
+comment4.params=Input
+comment4.target=void\ setPart(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getMethod()
+comment6.params=Input
+comment6.target=void\ setMethod(java.lang.String)
+comment7.params=
+comment7.target=BroiledSteak()
+numComments=8

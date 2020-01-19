@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Statistics
+comment0.text=\n\ Finds\ the\ average,\ mode,\ and\ standard\ deviation\ of\ a\ set\ of\ numbers\ in\ a\ txt\ file.\ Also\ keeps\ all\ output\ values\ \n\ under\ 2\ decimal\ places.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20190128\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a
+comment2.target=double\ mode(java.util.ArrayList)
+numComments=3

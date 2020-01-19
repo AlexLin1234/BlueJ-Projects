@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=StringBlowup
+comment0.text=\n\ Write\ a\ description\ of\ class\ StringBlowup\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=input
+comment1.target=java.lang.String\ blowup(java.lang.String)
+numComments=2

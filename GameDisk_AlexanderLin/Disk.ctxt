@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Disk
+comment0.text=\n\ Disk\ provides\ the\ information\ for\ the\ properties\ and\ commands\ of\ all\ Disks\ in\ the\ program.\ \n\n\ Alexander\ Lin\n\ 20181206\n
+comment1.params=
+comment1.target=Disk()
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=n
+comment3.target=void\ setValue(int)
+comment4.params=
+comment4.target=void\ spin()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

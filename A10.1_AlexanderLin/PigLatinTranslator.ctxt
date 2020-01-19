@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PigLatinTranslator
+comment0.text=\n\ Translates\ a\ sentence\ into\ pig\ latin.\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=Main\ method
+comment2.params=s
+comment2.target=java.lang.String\ pigLatin(java.lang.String)
+comment2.text=\n\ Method\ to\ translate\ a\ sentence\ word\ by\ word.\n\ @param\ s\ The\ sentence\ in\ English\n\ @return\ The\ pig\ latin\ version\n
+comment3.params=word
+comment3.target=java.lang.String\ pigWord(java.lang.String)
+comment3.text=\n\ Function\ that\ translates\ each\ word\ into\ pig-latin.\n\ Takes\ word\ The\ word\ in\ english\n\ returns\ The\ pig\ latin\ version\n
+comment4.params=c
+comment4.target=boolean\ isLetter(char)
+comment4.text=\n\ Method\ to\ test\ whether\ a\ character\ is\ a\ letter\ or\ not.\n\ Takes\ c\ The\ character\ to\ test\n\ returns\ True\ if\ it's\ a\ letter\n
+comment5.params=word
+comment5.target=int\ firstVowel(java.lang.String)
+comment5.text=\n\ Method\ to\ find\ the\ index\ of\ the\ first\ vowel\ in\ a\ word.\n\ @param\ word\ The\ word\ to\ search\n\ @return\ The\ index\ of\ the\ first\ vowel\n
+comment6.params=
+comment6.target=java.lang.String\ getString()
+comment6.text=\n\ Helper\ method\ to\ get\ input.\n\ returns\ A\ String\ from\ stdout\n
+numComments=7

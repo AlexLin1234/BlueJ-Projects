@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Restaurant
+comment0.text=\n\ Restaurant\ is\ the\ Engine\ class\ of\ the\ program,\ which\ takes\ each\ of\ the\ 5\ objects\ created\ and\ runs\ their\ functions.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180908\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GameRunner
+comment0.text=\n\ I\ am\ creating\ the\ GameDisk\ game\ that\ follows\ all\ the\ instructions\ given.\ \n\n\ Alexander\ Lin\n\ 20181206\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ instructions()
+numComments=3

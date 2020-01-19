@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=DiceRollerGUI
+comment0.text=\n\ Write\ a\ description\ of\ class\ GUI\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=g
+comment2.target=void\ paintComponent(java.awt.Graphics)
+comment2.text=\n\ \ \ \ public\ DiceRollerGUI()\ {\n\ \ \ \ \ \ \ \ try{\n\ \ \ \ \ \ \ \ person1\ \=\ (ImageIO.read(new\ File("BartGod")));\n\ \ \ \ \ \ \ }\ catch(IOException\ ex){\n\ \ \ \ \ \ \ \ System.err.println("That\ is\ invalid");\n\ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n\ \ \ \ }\n
+comment3.params=
+comment3.target=void\ begin()
+comment4.params=
+comment4.target=DiceRollerGUI()
+comment4.text=\n\ \ \ \ \n\ \ \ \ public\ void\ actionPerformed(ActionEvent\ evt){\n\ \ \ \ \ \ \ \ Object\ source\ \=\ evt.getSource();\ \ \n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ if\ (source\ \=\=\ enter)\ {\n\ \ \ \ \ \ \ \ \ \ String\ text\ \=\ players.getText();\n\ \ \ \ \ \ \ \ \ \ int\ num1\ \=\ Integer.parseInt(text);\n\ \ \ \ \ \ \ \ \ \ game\ \=\ new\ Game();\n\ \ \ \ \ \ \ \ \ \ game.begin(num1);\n\ \ \ \ \ \ \ \ \ \ game.players\ \=\ num1;\n\ \ \ \ \ \ \ \ \ \ game.play();\n\n\ \ \ \ \ \ \ }\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ \n\n\ \ \ \ \ \ \ \ //continue\ here\n\ \ \ \ }\n\ \ \ \ \n
+comment5.params=evt
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.text=\n\ \ \ \ public\ void\ paintComponent(Graphics\ g)\n\ \ \ \ //overriding\ paintComponent\ method\ with\ my\ own\ drawing\ instructions\n\ \ \ \ {\n\ \ \ \ \ \ \ \ r\ \=\ new\ Rectangle2D.Double(x,y,20,10);\n\ \ \ \ \ \ \ \ Graphics2D\ g2\ \=\ (Graphics2D)\ g;\n\ \ \ \ \ \ \ \ g2.setColor(Color.RED);\n\ \ \ \ \ \ \ \ g2.fill(r);\n\ \ \ \ }\n
+numComments=6

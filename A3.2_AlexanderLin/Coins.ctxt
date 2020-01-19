@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Coins
+comment0.text=\n\ Coins\ calculates\ the\ number\ of\ each\ coin\ used\ to\ get\ a\ certain\ number\ of\ cents.\n\ This\ program\ prioritizes\ the\ more\ valuable\ coins(quarters)\ over\ the\ less\ valuable\ coins\ (pennies)\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180826\n
+comment1.params=cents
+comment1.target=Coins(int)
+comment2.params=
+comment2.target=void\ calculate()
+numComments=3

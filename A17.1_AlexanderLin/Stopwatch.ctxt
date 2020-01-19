@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Stopwatch
+comment0.text=\n\ \ The\ {@code\ Stopwatch}\ data\ type\ is\ for\ measuring\n\ \ the\ time\ that\ elapses\ between\ the\ start\ and\ end\ of\ a\n\ \ programming\ task\ (wall-clock\ time).\n\n\ \ See\ {@link\ StopwatchCPU}\ for\ a\ version\ that\ measures\ CPU\ time.\n\n\ \ @author\ Robert\ Sedgewick\n\ \ @author\ Kevin\ Wayne\n
+comment1.params=
+comment1.target=Stopwatch()
+comment1.text=\n\ Initializes\ a\ new\ stopwatch.\n
+comment2.params=
+comment2.target=double\ elapsedTime()
+comment2.text=\n\ Returns\ the\ elapsed\ CPU\ time\ (in\ seconds)\ since\ the\ stopwatch\ was\ created.\n\n\ @return\ elapsed\ CPU\ time\ (in\ seconds)\ since\ the\ stopwatch\ was\ created\n
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\n\ Unit\ tests\ the\ {@code\ Stopwatch}\ data\ type.\n\ Takes\ a\ command-line\ argument\ {@code\ n}\ and\ computes\ the\ \n\ sum\ of\ the\ square\ roots\ of\ the\ first\ {@code\ n}\ positive\ integers,\n\ first\ using\ {@code\ Math.sqrt()},\ then\ using\ {@code\ Math.pow()}.\n\ It\ prints\ to\ standard\ output\ the\ sum\ and\ the\ amount\ of\ time\ to\n\ compute\ the\ sum.\ Note\ that\ the\ discrete\ sum\ can\ be\ approximated\ by\n\ an\ integral\ -\ the\ sum\ should\ be\ approximately\ 2/3\ *\ (n^(3/2)\ -\ 1).\n\n\ @param\ args\ the\ command-line\ arguments\n
+numComments=4

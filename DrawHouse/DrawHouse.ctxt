@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=DrawHouse
+comment0.text=\n\ Write\ a\ description\ of\ class\ House\ here.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180821\n
+comment1.params=d
+comment1.target=DrawHouse(gpdraw.DrawingTool)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

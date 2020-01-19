@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ReverseNumber
+comment0.text=\n\ Reverses\ a\ number.\ For\ example,\ if\ the\ number\ was\ 123,\ \n\ the\ output\ would\ be\ 321\n\ @author\ Alexander\ Lin\n\ @version\ 20180817\n
+comment1.params=num
+comment1.target=int\ ReverseNumber(int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PermutationGenerator
+comment0.text=\n\ Creates\ a\ ArrayList\ of\ integers\ between\ 1-10\ and\ gives\ all\ possible\ permutations\ of\ those\ integers.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20190122\n
+comment1.params=
+comment1.target=PermutationGenerator()
+comment2.params=
+comment2.target=void\ renewNumList()
+comment3.params=
+comment3.target=void\ nextPermutation()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

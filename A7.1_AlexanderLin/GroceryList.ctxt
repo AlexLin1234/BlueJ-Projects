@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GroceryList
+comment0.text=\n\ The\ program\ calculates\ the\ total\ costs\ of\ a\ grocery\ list\ based\ on\ input\ and\ also\ compares\ that\ with\ a\ sample\ list\n\ that\ is\ read\ from\ a\ text\ file.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180911\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=inputTotal
+comment2.target=void\ readUsingNIO(double)
+numComments=3

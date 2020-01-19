@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Benzene
+comment0.text=\n\ Draws\ a\ chemical\ diagram\ on\ Benzene,\ a\ carbon-based\ chemical.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180826\n
+comment1.params=d
+comment1.target=Benzene(gpdraw.DrawingTool)
+comment2.params=
+comment2.target=void\ draw()
+numComments=3

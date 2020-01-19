@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=KochExample
+comment0.text=\n\ KochExample\ runs\ the\ KochCurve\ program\ and\ draws\ the\ Koch\ snowflake\ from\ the\ curve.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20181017\n
+comment1.params=
+comment1.target=KochExample()
+numComments=2

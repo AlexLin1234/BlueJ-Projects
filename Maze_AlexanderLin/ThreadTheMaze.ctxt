@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=ThreadTheMaze
+comment0.text=\n\ ThreadTheMaze\ uses\ the\ function\ ThreadMaze\ which\ recursively\ goes\ through\ a\ text\ file\ (a\ text\ "maze")\n\n\ @author\ Alexander\ Lin\n\ @version\ 20190302\n
+comment1.params=
+comment1.target=ThreadTheMaze()
+comment2.params=
+comment2.target=void\ doTraceMaze()
+comment2.text=\n\ Initiates\ the\ trace\ process\n\n\ @param\ none\n
+comment3.params=
+comment3.target=void\ loadMaze()
+comment3.text=\n\ Loads\ the\ maze\ characters\ from\ mazeData.txt\n\n\ @param\ maze\ Description\ of\ Parameter\n
+comment4.params=maze
+comment4.target=void\ printMaze(char[][])
+comment4.text=\n\ Prints\ the\ maze\ while\ traceMaze\ traces\ a\ path\n\n\ @param\ maze\ A\ char\ variable\ that\ represents\ the\ maze\ board\n
+comment5.params=maze\ row\ col
+comment5.target=void\ traceMaze(char[][],\ int,\ int)
+comment5.text=\n\ Will\ attempt\ to\ find\ a\ path\ out\ of\ the\ maze.\ A\n\ path\ will\ be\ marked\ with\ the\ \!\ marker.\ The\ method\ \n\ makes\ a\ copy\ of\ the\ array\ each\ time\ so\ that\ only\ \n\ the\ path\ out\ will\ be\ marked,\ otherwise\ extra\ \!\ \n\ markers\ will\ appear\ in\ the\ answer.\n\ The\ function\ is\ recursive.\n\n\ @param\ maze\ A\ char\ variable\ that\ represents\ the\ maze\ board\n\ @param\ row\ The\ current\ row\ of\ the\ function\n\ @param\ col\ The\ current\ col\ of\ the\ current\ position\n
+numComments=6

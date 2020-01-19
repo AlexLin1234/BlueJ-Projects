@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=MergeSort
+comment0.text=Java\ program\ for\ Merge\ Sort
+comment1.params=arr\ l\ m\ r
+comment1.target=void\ merge(java.util.ArrayList,\ int,\ int,\ int)
+comment2.params=arr\ l\ r
+comment2.target=void\ sort(java.util.ArrayList,\ int,\ int)
+comment3.params=arr
+comment3.target=void\ printArray(java.util.ArrayList)
+comment3.text=A\ utility\ function\ to\ print\ array\ of\ size\ n
+comment4.params=
+comment4.target=int\ count()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

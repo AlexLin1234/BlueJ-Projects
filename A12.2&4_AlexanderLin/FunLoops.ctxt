@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FunLoops
+comment1.params=
+comment1.target=FunLoops()
+comment2.params=numSquares
+comment2.target=void\ magicsquare(int)
+comment3.params=num
+comment3.target=java.lang.String\ reverse(int)
+comment4.params=x1\ x2
+comment4.target=int\ lcm(int,\ int)
+comment5.params=lastNum
+comment5.target=int\ nextSquare(int)
+comment6.params=lastNum\ lastPyramidNum
+comment6.target=int\ nextPyramidNumber(int,\ int)
+numComments=7

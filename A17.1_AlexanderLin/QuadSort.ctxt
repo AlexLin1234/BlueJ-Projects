@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=QuadSort
+comment0.text=\n\ QuadSort\ class\ has\ the\ bubbleSort,\ selectionSort,\ insertionSort,\ and\ makes\ a\ table\ on\ how\ many\ steps\ each\ takes\n\ to\ sort\ an\ array\ of\ 100,\ 200,\ 400,\ and\ 800\ random\ integers.\n\ \n\ Now\ includes\ MergeSort\ as\ well.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20190220\n
+comment1.params=
+comment1.target=QuadSort()
+comment2.params=list
+comment2.target=void\ bubbleSort(java.util.ArrayList)
+comment3.params=list
+comment3.target=void\ selectionSort(java.util.ArrayList)
+comment4.params=list
+comment4.target=void\ insertionSort(java.util.ArrayList)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

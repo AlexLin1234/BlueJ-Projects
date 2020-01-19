@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Car
+comment0.text=\n\ This\ class\ describes\ the\ attributes\ and\ methods\ to\ simulate\ a\ car.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180827\n
+comment1.params=x
+comment1.target=Car(int)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Car\n
+comment2.params=y\ gallons
+comment2.target=void\ fillUp(int,\ double)
+comment3.params=
+comment3.target=double\ calculateMPG()
+comment4.params=
+comment4.target=void\ resetMPG()
+numComments=5

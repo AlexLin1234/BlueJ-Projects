@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=CarRental
+comment0.text=\n\ CarRental\ takes\ the\ Make\ and\ Model\ of\ your\ car,\ along\ with\ your\ license\ plate,\ and\ creates\ a\ new\ ID\ for\ your\ rental\ car\n\n\ @author\ Alexander\ Lin\n\ @version\ 20190116\n
+comment1.params=licenseString\ licenseNum
+comment1.target=java.lang.String\ CarID(java.lang.String,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

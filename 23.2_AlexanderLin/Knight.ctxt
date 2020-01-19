@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Knight
+comment0.text=\n\ Contains\ the\ properties\ of\ the\ Knight\ (position,\ etc.)\ and\ moving.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20190325\n
+comment1.params=
+comment1.target=Knight()
+comment2.params=board
+comment2.target=boolean\ move(int[][])
+comment3.params=
+comment3.target=int[][]\ generateMoves()
+numComments=4

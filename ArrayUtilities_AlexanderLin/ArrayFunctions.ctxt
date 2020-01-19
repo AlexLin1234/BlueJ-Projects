@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=ArrayFunctions
+comment0.text=\n\ The\ class\ provides\ a\ few\ array\ commands\ that\ are\ not\ present\ in\ Arrays\ but\ are\ present\ in\ ArrayLists.\ \n\ @author\ Alexander\ Lin\n\ @version\ 20190105\n
+comment1.params=input\ newValue\ position
+comment1.target=int[]\ Insertion(int[],\ int,\ int)
+comment1.text=\n\ Returns\ an\ int\ array\ that\ has\ a\ value\ inserted\ into\ a\ position,\ shifting\ all\ further\ positions\ up.\ \n\n\ @param\ \ arr\ \ the\ original\ array\ to\ be\ inserted\n\ @return\ \ \ \ \ \ an\ array\ containing\ the\ original\ arary\ with\ a\ value\ inserted\n
+comment2.params=input\ position
+comment2.target=int[]\ Deletion(int[],\ int)
+comment2.text=\n\ Returns\ an\ int\ array\ that\ has\ a\ value\ deleted\ from\ a\ position,\ shifting\ all\ further\ positions\ down.\ \n\n\ @param\ \ arr\ \ the\ original\ array\n\ @return\ \ \ \ \ \ an\ array\ containing\ the\ original\ arary\ with\ a\ value\ deleted\n
+comment3.params=input\ num
+comment3.target=int\ Traversal(int[],\ int)
+comment3.text=\n\ Returns\ an\ int\ that\ shows\ the\ first\ index\ in\ which\ a\ value\ is\ found\ in\ an\ array.\ If\ value\ is\ not\ found,\ then\ \n\ -1\ is\ returned.\ \n\n\ @param\ \ arr\ \ the\ original\ array\ and\ a\ number\ to\ look\ for\n\ @return\ \ \ \ \ \ an\ int\ for\ the\ first\ index\ at\ which\ the\ number\ is\ found\ in\ the\ array.\ \n
+comment4.params=input\ num
+comment4.target=int[]\ TraversalAll(int[],\ int)
+comment4.text=\n\ Returns\ an\ int\ that\ shows\ all\ the\ index\ values\ in\ which\ a\ specified\ value\ is\ found\ in\ an\ array.\ \n\n\ @param\ \ arr\ \ the\ original\ array\ to\ be\ traversed,\ and\ a\ number\ to\ look\ for\n\ @return\ \ \ \ \ \ an\ array\ of\ indexes\ in\ which\ the\ numbers\ are\ the\ indexes\ of\ the\ original\ array\ which\ contain\n\ the\ specified\ value.\ \n
+numComments=5

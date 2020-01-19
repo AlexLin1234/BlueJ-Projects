@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Word
+comment1.params=word\ def
+comment1.target=Word(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getWord()
+comment3.params=
+comment3.target=java.lang.String\ getDefinition()
+comment4.params=
+comment4.target=java.util.ArrayList\ getAllDefinitions()
+comment5.params=def
+comment5.target=void\ addDefinition(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment7.params=w
+comment7.target=int\ compareTo(Word)
+numComments=8

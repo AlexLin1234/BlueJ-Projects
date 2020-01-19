@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\n\ This\ class\ handles\ the\ logical\ part\ of\ the\ game,\ from\ the\ winning\ conditions\ to\ the\ \n\ coin-passing\ to\ the\ turn-based\ gameplay.\ \n\n\ @author\ Alexander\ Lin,\ Karthik\ Talluri,\ Rohan\ Maletira\n\ @version\ 20181129\n
+comment1.params=number_of_players
+comment1.target=void\ begin(int)
+comment1.text=\n\ \ \ \ public\ static\ void\ main(String[]\ args)\ throws\ InterruptedException{\n\ \ \ \ begin(3);\n\ \ \ \ play();\n\ \ \ \ }\n
+comment2.params=currentP\ currentR\ numR
+comment2.target=void\ play(int,\ int,\ int)
+comment3.params=currentPlayer\ currentRoll
+comment3.target=void\ passCoin(int,\ int)
+comment4.params=
+comment4.target=int\ rollDice()
+comment5.params=
+comment5.target=boolean\ checkCoins()
+comment6.params=
+comment6.target=int\ whoWon()
+numComments=7

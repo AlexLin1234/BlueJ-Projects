@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Taxes
+comment0.text=\n\ Calculates\ a\ person's\ profits\ from\ his\ job\ before\ tax\ and\ after\ tax.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180908\n
+comment1.params=hoursWorked\ hourlyRate
+comment1.target=Taxes(double,\ double)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Taxes\n
+comment2.params=
+comment2.target=double\ getHours()
+comment3.params=
+comment3.target=double\ getRate()
+comment4.params=
+comment4.target=double\ grossPay()
+comment5.params=
+comment5.target=double\ federalTax()
+comment6.params=
+comment6.target=double\ FICATax()
+comment7.params=
+comment7.target=double\ stateTax()
+comment8.params=
+comment8.target=double\ netPay()
+numComments=9

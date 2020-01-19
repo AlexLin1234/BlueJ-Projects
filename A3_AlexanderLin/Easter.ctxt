@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Easter
+comment0.text=\n\ Finds\ on\ what\ day\ Easter\ is\ on\ depending\ on\ the\ year.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180826\n
+comment1.params=year
+comment1.target=Easter(int)
+comment2.params=
+comment2.target=void\ calculate()
+numComments=3

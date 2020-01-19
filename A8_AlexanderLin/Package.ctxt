@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Package
+comment0.text=\n\ Takes\ the\ dimensions\ of\ a\ certain\ package\ and\ calculates\ whether\ the\ package\ is\ ok,\ too\ large,\ too\ heavy,\ or\ both\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180919\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

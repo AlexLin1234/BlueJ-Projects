@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=StringUtil
+comment0.text=\n\ StringUtil\ contains\ String\ manipulation\ functions\ like\ reserse\ and\ shorthand.\ They\ use\ the\ String\ class\ functions,\ loops,\ and\ recursion.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180108\n
+comment1.params=s
+comment1.target=java.lang.String\ reverse(java.lang.String)
+comment2.params=s
+comment2.target=java.lang.String\ reverseViaRecursion(java.lang.String)
+comment3.params=s
+comment3.target=java.lang.String\ cleanString(java.lang.String)
+comment4.params=s
+comment4.target=java.lang.Boolean\ isPalindrome(java.lang.String)
+comment5.params=s
+comment5.target=java.lang.String\ shortHand(java.lang.String)
+numComments=6

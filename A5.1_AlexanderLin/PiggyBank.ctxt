@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PiggyBank
+comment0.text=\nPiggyBank\ is\ a\ simulation\ of\ a\ real\ PiggyBank\:\ The\ class\ has\ attributes\ like\ coins\ and\ methods\ like\ calculating\ the\ values\ of\ the\ coins\ \n\n\ @author\ AlexanderLin\n\ @version\ 20180903\n
+comment1.params=
+comment1.target=PiggyBank()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ PiggyBank\n
+comment2.params=pennies\ nickels\ dimes\ quarters
+comment2.target=PiggyBank(int,\ int,\ int,\ int)
+comment3.params=
+comment3.target=int\ getPennies()
+comment3.text=\n\ Methods\ for\ Class\ PiggyBank\n
+comment4.params=
+comment4.target=int\ getNickels()
+comment5.params=
+comment5.target=int\ getDimes()
+comment6.params=
+comment6.target=int\ getQuarters()
+comment7.params=pennies\ nickels\ dimes\ quarters
+comment7.target=void\ deposit(int,\ int,\ int,\ int)
+comment8.params=
+comment8.target=double\ totalValue()
+numComments=9

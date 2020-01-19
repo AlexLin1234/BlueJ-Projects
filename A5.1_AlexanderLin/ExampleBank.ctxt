@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ExampleBank
+comment0.text=\n\ A\ program\ used\ to\ test\ the\ functionality\ of\ PiggyBank\n\n\ @author\ Alexander\ Lin\n\ @version\ 20180904\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

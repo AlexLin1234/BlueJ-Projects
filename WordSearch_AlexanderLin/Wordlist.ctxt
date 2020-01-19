@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Wordlist
+comment1.params=filename
+comment1.target=void\ importCSVbr(java.lang.String)
+comment1.text=\n\ Having\ difficulty\ with\ "Sere\ (a.)\ [OE.\ seer,\ AS.\ sear\ (assumed)\ fr.\ searian\ to\ wither;\ akin\ to\ D.\ zoor\ dry,\ LG.\ soor,\ OHG.\ sor/n\ to\ to\ wither,\ Gr.\ a"y`ein\ to\ parch,\ to\ dry,\ Skr.\ /ush\ (for\ sush)\ to\ dry,\ to\ wither,\ Zend\ hush\ to\ dry.\ \u221A152.\ Cf.\ Austere,\ Sorrel,\ a.]\ Dry;\ withered;\ no\ longer\ green;\ --\ applied\ to\ leaves."\n\ Output\ would\ continually\ bonk\ at\ "Skr.\ /ush".\ \n\ http\://www.java67.com/2016/06/5-difference-between-bufferedreader-and-scanner-in-java.html?m\=1\n\ \n\ BufferedReader\ can\ process\ more\ data\ per\ line\ as\ a\ 'string'\n\ Scanner\ reads\ Regex.\ This\ may\ be\ possibly\ an\ issue(?)\ with\ seeing\ /u\n
+comment2.params=filename
+comment2.target=void\ importCSV(java.lang.String)
+comment3.params=input
+comment3.target=void\ searchResult(java.lang.String)
+comment4.params=
+comment4.target=void\ printWordList()
+comment5.params=
+comment5.target=void\ menu()
+comment6.params=start\ midpoint\ end\ input
+comment6.target=Word\ binarySearch(int,\ int,\ int,\ java.lang.String)
+comment7.params=letter_ascii_value
+comment7.target=void\ importData(char)
+comment8.params=args
+comment8.target=void\ main(java.lang.String[])
+numComments=9

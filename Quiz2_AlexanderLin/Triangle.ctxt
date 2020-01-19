@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Triangle
+comment0.text=\n\ The\ class\ Triangle\ creates\ 3\ Point2D\ points\ randomly,\ gets\ 2\ points\ from\ user\ input,\ and\ then\ calculates\ whether\ the\ point\ is\n\ inside\ the\ triangle.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20180917\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

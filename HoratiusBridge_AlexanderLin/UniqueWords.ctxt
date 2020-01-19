@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=UniqueWords
+comment0.text=\n\ The\ number\ of\ unique\ words\ in\ Horatius\ is\ calculated\ here.\ \n\n\ @author\ Alexander\ Lin\n\ @version\ 20190103\n
+comment1.params=
+comment1.target=int\ getUnique()
+numComments=2

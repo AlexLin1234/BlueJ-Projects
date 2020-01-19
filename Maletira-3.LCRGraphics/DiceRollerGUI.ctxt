@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=DiceRollerGUI
+comment0.text=\n\ This\ class\ handles\ the\ graphical\ component\ of\ the\ game;\ the\ textfields,\ the\ player\ avatars,\ and\n\ the\ live\ score.\ \n\n\ @author\ Alexander\ Lin,\ Karthik\ Talluri,\ Rohan\ Maletira\n\ @version\ 20181129\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=DiceRollerGUI()
+comment3.params=
+comment3.target=void\ begin()
+comment4.params=evt
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.text=public\ void\ paintComponent(Graphics\ g)\n\ \ \ \ //overriding\ paintComponent\ method\ with\ my\ own\ drawing\ instructions\n\ \ \ \ {\n\ \ \ \ r\ \=\ new\ Rectangle2D.Double(x,y,20,10);\n\ \ \ \ Graphics2D\ g2\ \=\ (Graphics2D)\ g;\n\ \ \ \ g2.setColor(Color.RED);\n\ \ \ \ g2.fill(r);\n}
+numComments=5

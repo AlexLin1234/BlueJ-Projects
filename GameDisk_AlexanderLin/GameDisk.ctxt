@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=GameDisk
+comment0.text=\n\ GameDisk\ is\ the\ program\ that\ goes\ through\ the\ discs\ in\ the\ manner\ instructed\ and\ also\ resets\ the\ game\ state\ once\n\ done.\ \n\n\ Alexander\ Lin\n\ 20181206\n
+comment1.params=
+comment1.target=GameDisk()
+comment2.params=
+comment2.target=void\ numberDisks()
+comment3.params=n
+comment3.target=void\ play(int)
+comment4.params=
+comment4.target=boolean\ resetGame()
+numComments=5

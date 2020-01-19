@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Tour
+comment0.text=\n\ Board\ class\ that\ the\ knight\ moves\ across.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20190325\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2

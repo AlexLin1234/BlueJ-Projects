@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BinarySearch
+comment0.text=\n\ BinarySearch\ uses\ a\ menu-based\ interface\ to\ let\ the\ user\ choose\ between\ 3\ different\ functions\ to\ search\ through\ a\ list.\n\n\ @author\ Alexander\ Lin\n\ @version\ 20190311\n
+comment1.params=arr\ start\ end\ key
+comment1.target=int\ recursBin(int[],\ int,\ int,\ int)
+comment2.params=arr\ start\ end\ key
+comment2.target=int\ interBin(int[],\ int,\ int,\ int)
+comment3.params=A\ x
+comment3.target=int\ findFirstOccurrence(int[],\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
